@@ -1,0 +1,32 @@
+{
+    "id": "A2D13100",
+    "path": "~/CS5805_ML_Projects/Linear_Regression/Linear_Regression_Blog/posts/LinReg_Blog_Post/LinReg.qmd",
+    "project_path": "posts/LinReg_Blog_Post/LinReg.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1701422307485.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "51,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "7233:3226",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701579256,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701579256917,
+    "read_only": false,
+    "read_only_alternatives": []
+}

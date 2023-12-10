@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/Probability_Blog_Post/Probability.html",
+      "/posts/Classification_Blog_Post/Classification.html",
+      "/posts/LinReg_Blog_Post/LinReg.html",
+      "/posts/Clustering_Blog_Post/Clustering.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

@@ -1,0 +1,5 @@
+#!/Users/shardul/CS5805_ML_Projects/Linear_Regression/Linear_Regression_Blog/python-env-test/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

@@ -1,0 +1,11 @@
+prefix=/Users/shardul/CS5805_ML_Projects/Linear_Regression/Linear_Regression_Blog/python-env-test
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+toolexeclibdir=${libdir}
+includedir=/Users/shardul/CS5805_ML_Projects/Linear_Regression/Linear_Regression_Blog/python-env-test/include
+
+Name: libffi
+Description: Library supporting Foreign Function Interfaces
+Version: 3.4.2
+Libs: -L${toolexeclibdir} -lffi
+Cflags: -I${includedir}

@@ -1,0 +1,31 @@
+{
+    "id": "4397E5B3",
+    "path": "~/CS5805_ML_Projects/Linear_Regression/Linear_Regression_Blog/index.qmd",
+    "project_path": "index.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1701383787321.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "5,8",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:51"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1701565067,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1701565067244,
+    "read_only": false,
+    "read_only_alternatives": []
+}
