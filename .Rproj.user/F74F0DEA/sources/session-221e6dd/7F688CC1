@@ -1,0 +1,32 @@
+{
+    "id": "7F688CC1",
+    "path": "~/CS5805_ML_Projects/Linear_Regression/Linear_Regression_Blog/posts/Clustering_Blog_Post/Clustering.qmd",
+    "project_path": "posts/Clustering_Blog_Post/Clustering.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1701813345079.0,
+    "source_on_save": false,
+    "relative_order": 10,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "24,33",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2:0",
+        "chunk_output_type": "console"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1702208038,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1702208038638,
+    "read_only": false,
+    "read_only_alternatives": []
+}

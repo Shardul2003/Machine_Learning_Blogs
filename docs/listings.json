@@ -2,11 +2,11 @@
   {
     "listing": "/blog.html",
     "items": [
-      "/posts/Probability_Blog_Post/Probability.html",
-      "/posts/Classification_Blog_Post/Classification.html",
-      "/posts/LinReg_Blog_Post/LinReg.html",
+      "/posts/Clustering_Blog_Post/Clustering.html",
       "/posts/Anomaly_Detection_Blog_Post/Anomaly_Detection.html",
-      "/posts/Clustering_Blog_Post/Clustering.html"
+      "/posts/Classification_Blog_Post/Classification.html",
+      "/posts/Probability_Blog_Post/Probability.html",
+      "/posts/LinReg_Blog_Post/LinReg.html"
     ]
   }
 ]
